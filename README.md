@@ -10,3 +10,4 @@ Pedido/DeletePedido - Recebe o id de um pedido, procura o pedido pelo id e delet
 Controllers, modelos de resposta e requisição em Application<br>
 Interfaces de services, interfaces de repositórios e implementação de services em Domain<br>
 Context do banco, modelos das tabelas e implementação de repositórios em Infra<br>
+ORM - EF Core
